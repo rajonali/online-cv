@@ -38,37 +38,17 @@ sidebar:
       - item: Cooking
         link:
 
+      - item: Soccer
+        link:
+
+
 career-profile:
     title: Career Profile
     summary: |
-      An all around developer with experience in backend and front-end development. 
+      I am a passionate software developer that likes to create intuitive UX+UI solutions for everyday problems that people will want to use and can rely on.⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ 
+ 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Full Stack Remote React Developer Intern
@@ -77,8 +57,6 @@ experiences:
       details: |
         Work on various tasks concerning the front-end website and back-end API. Have to use React+Redux among many other frameworks, libraries, and tools for development and debugging. The startup is in its very early stages but gives me a very thorough understanding of how a startup scales while learning about new technologies and collaborating with experienced developers who have industry experience.
 
-          - Bullet point
-          - Bullet point
 
 
 projects:
