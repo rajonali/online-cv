@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a passionate software developer that likes to create intuitive UX+UI solutions for everyday problems that people will want to use and can rely on.⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ 
+      A passionate all around software developer that likes to create intuitive UX+UI solutions for everyday problems that people will want to use and can rely on.⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀ 
  
 
 education:
@@ -61,19 +61,17 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+     # These are my latest 
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Gas Station Inventory Management App
+        link: "#crud#mern#javascript"
+        tagline: "A MongoDB + Express + React + Node stack built inventory management app to track 1000+ products by their UPC."
 
-      - title: DevStudio
+      - title: Real-Estate Listing Site 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A responsive real estate listing site built with Ruby-on-Rails."
 
       - title: Tempo
         link: "#"
