@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Tasnim Ali
-    tagline: Full Stack Developer
+    tagline: Full Stack React Developer
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,15 +31,7 @@ sidebar:
       - idiom: Bengali
         level: Fluent
 
-    interests:
-      - item: Woodworking
-        link:
-
-      - item: Cooking
-        link:
-
-      - item: Soccer
-        link:
+   
 
 
 career-profile:
@@ -66,44 +58,22 @@ projects:
 
     assignments:
       - title: Gas Station Inventory Management App
-        link: "#crud#mern#javascript"
-        tagline: "A MongoDB + Express + React + Node stack built inventory management app to track 1000+ products by their UPC."
-
-      - title: Real-Estate Listing Site 
         link: "#"
-        tagline: "A responsive real estate listing site built with Ruby-on-Rails."
+        tagline: "A MongoDB + Express + React + Node stack built inventory management app to track products by their UPC."
 
-      - title: Tempo
+      - title: Apple Pay Finder  
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "MERN stack user curated database of Apple Pay accepting establishments."
 
-      - title: Atom
+      - title: Your Media Company 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Concept React website for a photography company."
 
-      - title: Delta
+      - title: Kenny Breland Photography Portfolio
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A simple responsive React personal photography portfolio."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -116,16 +86,15 @@ skills:
         level: 98%
 
       - name: Angular
-        level: 98%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 98%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 50%
 
       - name: Sketch & Photoshop
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
