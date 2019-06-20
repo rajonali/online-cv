@@ -43,8 +43,14 @@ career-profile:
 education:
 
 experiences:
+    - role: Futures Fund Coding Instructor
+      time: January 2019 - Present
+      company: Baton Rouge, LA
+      details: |
+        Teaching and showing the leaders of tomorrow the amazing potential and opportunities found in web development. Conduct a classroom environment with 1-on-1 focus when needed. Simulate a collaborative environment with task management systems, communication through Slack, using basic VCS and GitHub, creating clone projects, and developing personal portfolios.
+
     - role: Full Stack Remote React Developer Intern
-      time: 2018 - Present
+      time: September 2018 - January 2019
       company: ListedB, New York
       details: |
         Work on various tasks concerning the front-end website and back-end API. Have to use React+Redux among many other frameworks, libraries, and tools for development and debugging. The startup is in its very early stages but gives me a very thorough understanding of how a startup scales while learning about new technologies and collaborating with experienced developers who have industry experience.
