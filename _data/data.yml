@@ -81,26 +81,4 @@ projects:
 
 
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 50%
-
-      - name: HTML5 & CSS
-        level: 98%
-
-      - name: Ruby on Rails
-        level: 50%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
 footer: >
